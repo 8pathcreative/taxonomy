@@ -41,3 +41,13 @@ export function ModeToggle() {
     </DropdownMenu>
   )
 }
+
+{
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "build",
+      "label": "build"
+    }
+  ]
+}
